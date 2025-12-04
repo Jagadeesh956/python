@@ -1,0 +1,20 @@
+Python shell that runs when we execute python3 on terminal is a REPL [ read , evaluate , print and loop]
+
+So anything typed in the shell immediately prints the expected output .
+
+Major difference between List and Strings are that latter ones are Immutable.
+
+Planet = "MARS"
+
+planet[0] would give you "M", but we can assign planet[0] = "P"
+
+str.split() turns a string into a list of smaller strings, breaking on whitespace by default. This is super useful for taking you from one big string to a list of words.
+
+Note that the empty string is also the only string that Python considers as False when converting to boolean.
+
+
+Pass any object in below to get details
+
+1: type() (what is this thing?)
+2. dir() (what can I do with it?)
+3.help() (tell me more)
